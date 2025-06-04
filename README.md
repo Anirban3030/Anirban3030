@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Anirban Mondal</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirban3030" alt="anirban3030" /></a> </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirban3030&" alt="anirban3030" /></p>
 
 <p align="left"> <a href="https://twitter.com/anirban38830763" target="blank"><img src="https://img.shields.io/twitter/follow/anirban38830763?logo=twitter&style=for-the-badge" alt="anirban38830763" /></a> </p>
